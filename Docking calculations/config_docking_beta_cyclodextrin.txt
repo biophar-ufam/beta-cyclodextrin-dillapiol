@@ -1,0 +1,10 @@
+receptor = beta_cyclodextrin.pdbqt
+ligand = dillapiole_6_311G_dft.pdbqt
+center_x = 7.315
+center_y = 24.594
+center_z = 3.422
+size_x = 13.000
+size_y = 13.750
+size_z = 8.500
+out = docking2_beta_cyclodextrin_dillapiol.pdbqt
+exhaustiveness = 392
